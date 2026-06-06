@@ -11,6 +11,7 @@ A passionate Data Scientist and AI Developer focused on building robust predicti
 - 🌱 **Currently Learning:** Advanced Generative AI frameworks, Transformer fine-tuning strategies, and large-scale MLOps deployment tools.
 - 💬 **Ask me about:** Multi-class classification engineering, Deep Learning optimization curves, and building Matrix Factorization recommendation engines from scratch.
 - ⚡ **Fun Fact:** When I'm not optimizing learning curves or debugging PyTorch dimensions, you'll find me analyzing complex tactical board game mechanics, diving deep into survival horror lore, or custom-airbrushing rare book edges!
+- 🌐 **linkedin profile**: https://www.linkedin.com/in/despoina-kleisarchaki-4b5170188/overlay/contact-info/
 
 ---
 
