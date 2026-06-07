@@ -45,9 +45,3 @@ When I'm not balancing datasets or tracking optimization curves in PyTorch, you 
 - 📚 **Reading Books & Exploring Stories:** Diving into rich narrative worlds, with a special appreciation for detailed world-building and unique book editions.
 - 🎮 **Gaming & Story-Driven Media:** Immersing myself in video games and series with deep lore, mystery, and tactical depth (proud dark/mystery genre fan).
 - 🧑‍🤝‍🧑 **Being a Mum:** Managing the most demanding, rewarding, and high-stakes "real-world project" every single day.
-
----
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/kleisarchaki-despoina/count.svg" alt="Profile Views" />
-</p>
