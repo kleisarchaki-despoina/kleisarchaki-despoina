@@ -1,17 +1,28 @@
 # Hi there, I'm Kleisarchaki Despoina! 👋
-### AI Data Factory Graduate & Junior Data Scientist
+### Philologist turned AI Data Engineer & Analytics Specialist
 
-A passionate Data Scientist and AI Developer focused on building robust predictive pipelines, deep learning architectures, and production-grade personalization systems. 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/despoina-kleisarchaki-4b5170188/)
+
+I bridge the gap between human language structures and computational intelligence. With a strong academic background in Philology and Linguistics, I transitioned into data science, mastering Big Data pathways, Neural Networks, and Artificial Intelligence workflows.
+
+My unique advantage lies at the intersection of text and tech: I combine a deep structural understanding of syntax and semantics with the programmatic skills required to build, evaluate, and deploy machine learning architectures.
 
 ---
 
-### 🚀 About Me & Current Focus
+### 🚀 My Journey & Current Focus
 
-- 🔭 **Current Focus:** Packaging my machine learning projects into production-ready pipelines and optimizing model interpretability.
-- 🌱 **Currently Learning:** Advanced Generative AI frameworks, Transformer fine-tuning strategies, and large-scale MLOps deployment tools.
-- 💬 **Ask me about:** Multi-class classification engineering, Deep Learning optimization curves, and building Matrix Factorization recommendation engines from scratch.
-- ⚡ **Fun Fact:** When I'm not optimizing learning curves or debugging PyTorch dimensions, you'll find me analyzing complex tactical board game mechanics, diving deep into survival horror lore, or custom-airbrushing rare book edges!
-- 🌐 **linkedin profile**: https://www.linkedin.com/in/despoina-kleisarchaki-4b5170188/overlay/contact-info/
+- 🏛️ **The Foundation:** Degree in Philology, training my mind in complex syntax trees, structural text analysis, and logical parsing.
+- ⚙️ **The Pivot:** Completed an intensive **Big Data & Artificial Intelligence Bootcamp** to translate those analytical patterns into production-ready Python pipelines.
+- 🧠 **Current Focus:** Deepening my expertise in Natural Language Processing (NLP) and fine-tuning Large Language Models (LLMs), where linguistics and deep learning meet.
+
+---
+
+### ⚡ Beyond the Code
+
+When I'm not balancing datasets or tracking optimization curves in PyTorch, you can find me:
+- 📚 **Reading Books & Exploring Stories:** Diving into rich narrative worlds, with a special appreciation for detailed world-building and unique book editions.
+- 🎮 **Gaming & Story-Driven Media:** Immersing myself in video games and series with deep lore, mystery, and tactical depth (proud dark/mystery genre fan).
+- 🧑‍🤝‍🧑 **Being a Mum:** Managing the most demanding, rewarding, and high-stakes "real-world project" every single day.
 
 ---
 
@@ -26,9 +37,18 @@ A passionate Data Scientist and AI Developer focused on building robust predicti
 
 ---
 
+<br/>
+
+### 📊 My GitHub Production Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleisarchaki-despoina&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=5" alt="Top Languages" />
+</p>
+
+---
+
 ### 🏆 Key Portfolio Highlights
 
-* **NLP Evolution Trilogy:** A comprehensive suite benchmarking airline tweet sentiment performance from baseline ANNs to sequential Bi-LSTMs with Temporal Attention and fine-tuned DistilBERT models.
-* **Custom Recommender System:** Built a low-rank Matrix Factorization recommender engine from scratch using Stochastic Gradient Descent (SGD) loops and content fallback heuristics.
-* **Wine Quality Benchmark:** An advanced supervised pipeline mapping chemical boundaries via hyperparameter-optimized SVMs and Decision Trees.
-* **Greece Real Estate Pricing:** A dual-mode predictive architecture combining continuous Linear Regression value tracking with Logistic Regression classification boundaries.
+* **NLP Evolution Trilogy:** My flagship project. A complete text analytics pipeline tracking sentiment performance from baseline ANNs to sequential Bi-LSTMs with Temporal Attention, culminating in fine-tuned **DistilBERT Transformers**.
+* **Custom Recommender System:** Built a low-rank Matrix Factorization recommender engine from scratch, writing the mathematical optimization via **Stochastic Gradient Descent (SGD)** loops.
+* **Wine Quality Benchmark:** An advanced supervised pipeline mapping chemical boundaries via hyperparameter-optimized Support Vector Machines (**SVMs**) and Decision Trees.
+* **Greece Real Estate Pricing:** A dual-mode predictive architecture combining continuous **Linear Regression** value tracking with **Logistic Regression** classification boundaries.
