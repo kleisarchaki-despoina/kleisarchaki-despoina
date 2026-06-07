@@ -11,9 +11,11 @@ My unique advantage lies at the intersection of text and tech: I combine a deep 
 
 ### 🚀 My Journey & Current Focus
 
-- 🏛️ **The Foundation:** Degree in Philology, training my mind in complex syntax trees, structural text analysis, and logical parsing.
-- ⚙️ **The Pivot:** Completed an intensive **Big Data & Artificial Intelligence Bootcamp** to translate those analytical patterns into production-ready Python pipelines.
-- 🧠 **Current Focus:** Deepening my expertise in Natural Language Processing (NLP) and fine-tuning Large Language Models (LLMs), where linguistics and deep learning meet.
+- 🏛️ **The Foundation:** Degree in German Language and Philology (NKUA), training my mind in rigorous syntax trees, structural analysis, and complex linguistic parsing.
+- ⚙️ **The Pivot:** Completed intensive post-graduate specializations to translate those analytical structures into production-ready pipelines:
+  * **AI Data Factory Bootcamp (AUEB):** Deep dive into Big Data pathways, Machine Learning architectures, and algorithmic data analysis.
+  * **AI Developers Program (NKUA):** Advanced hands-on training in Python programming and OpenAI API applications.
+- 🧠 **Current Focus:** Deepening my expertise in Natural Language Processing (NLP) and fine-tuning Large Language Models (LLMs), where philology and neural networks meet.
 
 ---
 
