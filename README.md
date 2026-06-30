@@ -9,17 +9,17 @@ My unique advantage lies at the intersection of text and tech: I combine a deep 
 
 ---
 
-### 🚀 My Journey & Current Focus
+### My Journey & Current Focus
 
-- 🏛️ **The Foundation:** Degree in German Language and Philology (NKUA), training my mind in rigorous syntax trees, structural analysis, and complex linguistic parsing.
-- ⚙️ **The Pivot:** Completed intensive post-graduate specializations to translate those analytical structures into production-ready pipelines:
+- **The Foundation:** Degree in German Language and Philology (NKUA), training my mind in rigorous syntax trees, structural analysis, and complex linguistic parsing.
+- **The Pivot:** Completed intensive post-graduate specializations to translate those analytical structures into production-ready pipelines:
   * **AI Data Factory Bootcamp (AUEB):** Deep dive into Big Data pathways, Machine Learning architectures, and algorithmic data analysis.
   * **AI Developers Program (NKUA):** Advanced hands-on training in Python programming and OpenAI API applications.
-- 🧠 **Current Focus:** Deepening my expertise in Natural Language Processing (NLP) and fine-tuning Large Language Models (LLMs), where philology and neural networks meet.
+- **Current Focus:** Deepening my expertise in Natural Language Processing (NLP) and fine-tuning Large Language Models (LLMs), where philology and neural networks meet.
 
 ---
 
-### 🛠️ Technologies & Frameworks I Use
+### Technologies & Frameworks I Use
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/sql-00758F?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -30,7 +30,7 @@ My unique advantage lies at the intersection of text and tech: I combine a deep 
 
 ---
 
-### 🏆 Key Portfolio Highlights
+### Key Portfolio Highlights
 
 * **NLP Evolution Trilogy:** My flagship project. A complete text analytics pipeline tracking sentiment performance from baseline ANNs to sequential Bi-LSTMs with Temporal Attention, culminating in fine-tuned **DistilBERT Transformers**.
 * **Custom Recommender System:** Built a low-rank Matrix Factorization recommender engine from scratch, writing the mathematical optimization via **Stochastic Gradient Descent (SGD)** loops.
@@ -39,7 +39,7 @@ My unique advantage lies at the intersection of text and tech: I combine a deep 
 
 ---
 
-### ⚡ Beyond the Code
+### Beyond the Code
 
 When I'm not balancing datasets or tracking optimization curves in PyTorch, you can find me:
 - 📚 **Reading Books & Exploring Stories:** Diving into rich narrative worlds, with a special appreciation for detailed world-building and unique book editions.
